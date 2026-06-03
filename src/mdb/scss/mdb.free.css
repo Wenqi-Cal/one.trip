@@ -25,40 +25,40 @@
   --mdb-gray-700: #616161;
   --mdb-gray-800: #4f4f4f;
   --mdb-gray-900: #262626;
-  --mdb-primary: #2E5077;
-  --mdb-secondary: #FF9126;
+  --mdb-primary: #326384;
+  --mdb-secondary: #FA6B47;
   --mdb-success: #E5F7FA;
   --mdb-danger: #dc4c64;
   --mdb-warning: #e4a11b;
   --mdb-info: #54b4d3;
   --mdb-light: #fbfbfb;
   --mdb-dark: #332d2d;
-  --mdb-primary-rgb: 46, 80, 119;
-  --mdb-secondary-rgb: 255, 145, 38;
+  --mdb-primary-rgb: 50, 99, 132;
+  --mdb-secondary-rgb: 250, 107, 71;
   --mdb-success-rgb: 229, 247, 250;
   --mdb-danger-rgb: 220, 76, 100;
   --mdb-warning-rgb: 228, 161, 27;
   --mdb-info-rgb: 84, 180, 211;
   --mdb-light-rgb: 251, 251, 251;
   --mdb-dark-rgb: 51, 45, 45;
-  --mdb-primary-text-emphasis: rgb(36.8, 64, 95.2);
-  --mdb-secondary-text-emphasis: rgb(102, 58, 15.2);
+  --mdb-primary-text-emphasis: rgb(40, 79.2, 105.6);
+  --mdb-secondary-text-emphasis: rgb(100, 42.8, 28.4);
   --mdb-success-text-emphasis: rgb(137.4, 148.2, 150);
   --mdb-info-text-emphasis: rgb(58.8, 126, 147.7);
   --mdb-warning-text-emphasis: rgb(136.8, 96.6, 16.2);
   --mdb-danger-text-emphasis: rgb(176, 60.8, 80);
   --mdb-light-text-emphasis: #616161;
   --mdb-dark-text-emphasis: #eeeeee;
-  --mdb-primary-bg-subtle: rgb(223.65, 228.75, 234.6);
-  --mdb-secondary-bg-subtle: rgb(255, 238.5, 222.45);
+  --mdb-primary-bg-subtle: rgb(224.25, 231.6, 236.55);
+  --mdb-secondary-bg-subtle: rgb(254.25, 232.8, 227.4);
   --mdb-success-bg-subtle: rgb(251.1, 253.8, 254.25);
   --mdb-info-bg-subtle: rgb(229.35, 243.75, 248.4);
   --mdb-warning-bg-subtle: rgb(250.95, 240.9, 220.8);
   --mdb-danger-bg-subtle: rgb(249.75, 228.15, 231.75);
   --mdb-light-bg-subtle: #f5f5f5;
   --mdb-dark-bg-subtle: #262626;
-  --mdb-primary-border-subtle: rgb(171.4, 185, 200.6);
-  --mdb-secondary-border-subtle: rgb(255, 211, 168.2);
+  --mdb-primary-border-subtle: rgb(173, 192.6, 205.8);
+  --mdb-secondary-border-subtle: rgb(253, 195.8, 181.4);
   --mdb-success-border-subtle: rgb(244.6, 251.8, 253);
   --mdb-info-border-subtle: rgb(186.6, 225, 237.4);
   --mdb-warning-border-subtle: rgb(244.2, 217.4, 163.8);
@@ -89,11 +89,11 @@
   --mdb-tertiary-bg: #fbfbfb;
   --mdb-tertiary-bg-rgb: 251, 251, 251;
   --mdb-heading-color: inherit;
-  --mdb-link-color: #2E5077;
-  --mdb-link-color-rgb: 46, 80, 119;
+  --mdb-link-color: #326384;
+  --mdb-link-color-rgb: 50, 99, 132;
   --mdb-link-decoration: none;
-  --mdb-link-hover-color: rgb(43.7, 76, 113.05);
-  --mdb-link-hover-color-rgb: 44, 76, 113;
+  --mdb-link-hover-color: rgb(47.5, 94.05, 125.4);
+  --mdb-link-hover-color-rgb: 48, 94, 125;
   --mdb-link-hover-decoration: none;
   --mdb-code-color: #e91e63;
   --mdb-highlight-color: #4f4f4f;
@@ -117,7 +117,7 @@
   --mdb-box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, 0.075);
   --mdb-focus-ring-width: 0.25rem;
   --mdb-focus-ring-opacity: 0.25;
-  --mdb-focus-ring-color: rgba(46, 80, 119, 0.25);
+  --mdb-focus-ring-color: rgba(50, 99, 132, 0.25);
   --mdb-form-valid-color: #E5F7FA;
   --mdb-form-valid-border-color: #E5F7FA;
   --mdb-form-invalid-color: #dc4c64;
@@ -140,24 +140,24 @@
   --mdb-tertiary-color-rgb: 255, 255, 255;
   --mdb-tertiary-bg: rgb(58.5, 58.5, 58.5);
   --mdb-tertiary-bg-rgb: 59, 59, 59;
-  --mdb-primary-text-emphasis: rgb(87.8, 115, 146.2);
-  --mdb-secondary-text-emphasis: rgb(255, 211, 168.2);
+  --mdb-primary-text-emphasis: rgb(91, 130.2, 156.6);
+  --mdb-secondary-text-emphasis: rgb(253, 195.8, 181.4);
   --mdb-success-text-emphasis: rgb(239.4, 250.2, 252);
   --mdb-info-text-emphasis: rgb(135.3, 202.5, 224.2);
   --mdb-warning-text-emphasis: rgb(238.8, 198.6, 118.2);
   --mdb-danger-text-emphasis: rgb(227, 111.8, 131);
   --mdb-light-text-emphasis: #f5f5f5;
   --mdb-dark-text-emphasis: #eeeeee;
-  --mdb-primary-bg-subtle: rgb(9.2, 16, 23.8);
-  --mdb-secondary-bg-subtle: rgb(51, 29, 7.6);
+  --mdb-primary-bg-subtle: rgb(10, 19.8, 26.4);
+  --mdb-secondary-bg-subtle: rgb(50, 21.4, 14.2);
   --mdb-success-bg-subtle: rgb(45.8, 49.4, 50);
   --mdb-info-bg-subtle: rgb(16.8, 36, 42.2);
   --mdb-warning-bg-subtle: rgb(45.6, 32.2, 5.4);
   --mdb-danger-bg-subtle: rgb(44, 15.2, 20);
   --mdb-light-bg-subtle: #4f4f4f;
   --mdb-dark-bg-subtle: #262626;
-  --mdb-primary-border-subtle: rgb(27.6, 48, 71.4);
-  --mdb-secondary-border-subtle: rgb(153, 87, 22.8);
+  --mdb-primary-border-subtle: rgb(30, 59.4, 79.2);
+  --mdb-secondary-border-subtle: rgb(150, 64.2, 42.6);
   --mdb-success-border-subtle: rgb(137.4, 148.2, 150);
   --mdb-info-border-subtle: rgb(50.4, 108, 126.6);
   --mdb-warning-border-subtle: rgb(136.8, 96.6, 16.2);
@@ -165,10 +165,10 @@
   --mdb-light-border-subtle: #616161;
   --mdb-dark-border-subtle: #4f4f4f;
   --mdb-heading-color: inherit;
-  --mdb-link-color: rgb(129.6, 150, 173.4);
-  --mdb-link-hover-color: rgb(135.87, 155.25, 177.48);
-  --mdb-link-color-rgb: 130, 150, 173;
-  --mdb-link-hover-color-rgb: 136, 155, 177;
+  --mdb-link-color: rgb(132, 161.4, 181.2);
+  --mdb-link-hover-color: rgb(138.15, 166.08, 184.89);
+  --mdb-link-color-rgb: 132, 161, 181;
+  --mdb-link-hover-color-rgb: 138, 166, 185;
   --mdb-code-color: rgb(241.8, 120, 161.4);
   --mdb-highlight-color: #fff;
   --mdb-highlight-bg: #f9a825;
@@ -1947,13 +1947,13 @@ progress {
 
 .table-primary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(213.2, 220, 227.8);
-  --mdb-table-border-color: rgb(170.56, 176, 182.24);
-  --mdb-table-striped-bg: rgb(202.54, 209, 216.41);
+  --mdb-table-bg: rgb(214, 223.8, 230.4);
+  --mdb-table-border-color: rgb(171.2, 179.04, 184.32);
+  --mdb-table-striped-bg: rgb(203.3, 212.61, 218.88);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(191.88, 198, 205.02);
+  --mdb-table-active-bg: rgb(192.6, 201.42, 207.36);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(197.21, 203.5, 210.715);
+  --mdb-table-hover-bg: rgb(197.95, 207.015, 213.12);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -1961,13 +1961,13 @@ progress {
 
 .table-secondary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(255, 233, 211.6);
-  --mdb-table-border-color: rgb(204, 186.4, 169.28);
-  --mdb-table-striped-bg: rgb(242.25, 221.35, 201.02);
+  --mdb-table-bg: rgb(254, 225.4, 218.2);
+  --mdb-table-border-color: rgb(203.2, 180.32, 174.56);
+  --mdb-table-striped-bg: rgb(241.3, 214.13, 207.29);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(229.5, 209.7, 190.44);
+  --mdb-table-active-bg: rgb(228.6, 202.86, 196.38);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(235.875, 215.525, 195.73);
+  --mdb-table-hover-bg: rgb(234.95, 208.495, 201.835);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -2158,7 +2158,7 @@ progress {
   background-color: var(--mdb-body-bg);
   border-color: var(--mdb-input-focus-border-color);
   outline: 0;
-  box-shadow: var(--mdb-box-shadow-inset), 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: var(--mdb-box-shadow-inset), 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .form-control::-webkit-date-and-time-value {
   min-width: 85px;
@@ -2308,9 +2308,9 @@ textarea.form-control-lg {
   }
 }
 .form-select:focus {
-  border-color: #2E5077;
+  border-color: #326384;
   outline: 0;
-  box-shadow: var(--mdb-box-shadow-inset), 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: var(--mdb-box-shadow-inset), 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .form-select[multiple], .form-select[size]:not([size="1"]) {
   padding-right: 0.75rem;
@@ -2397,11 +2397,11 @@ textarea.form-control-lg {
 .form-check-input:focus {
   border-color: var(--mdb-input-focus-border-color);
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .form-check-input:checked {
-  background-color: #2E5077;
-  border-color: #2E5077;
+  background-color: #326384;
+  border-color: #326384;
 }
 .form-check-input:checked[type=checkbox] {
   --mdb-form-check-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='m6 10 3 3 6-6'/%3e%3c/svg%3e");
@@ -2410,7 +2410,7 @@ textarea.form-control-lg {
   --mdb-form-check-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='2' fill='%23fff'/%3e%3c/svg%3e");
 }
 .form-check-input[type=checkbox]:indeterminate {
-  background-color: #2E5077;
+  background-color: #326384;
   border-color: #757575;
   --mdb-form-check-bg-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10h8'/%3e%3c/svg%3e");
 }
@@ -2490,10 +2490,10 @@ textarea.form-control-lg {
   outline: 0;
 }
 .form-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .form-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .form-range::-moz-focus-outer {
   border: 0;
@@ -2504,7 +2504,7 @@ textarea.form-control-lg {
   margin-top: -0.25rem;
   -webkit-appearance: none;
           appearance: none;
-  background-color: #2E5077;
+  background-color: #326384;
   border: 0;
   border-radius: 1rem;
   box-shadow: 0 0.1rem 0.25rem rgba(0, 0, 0, 0.1);
@@ -2518,7 +2518,7 @@ textarea.form-control-lg {
   }
 }
 .form-range::-webkit-slider-thumb:active {
-  background-color: rgb(192.3, 202.5, 214.2);
+  background-color: rgb(193.5, 208.2, 218.1);
 }
 .form-range::-webkit-slider-runnable-track {
   width: 100%;
@@ -2535,7 +2535,7 @@ textarea.form-control-lg {
   height: 1rem;
   -moz-appearance: none;
        appearance: none;
-  background-color: #2E5077;
+  background-color: #326384;
   border: 0;
   border-radius: 1rem;
   box-shadow: 0 0.1rem 0.25rem rgba(0, 0, 0, 0.1);
@@ -2549,7 +2549,7 @@ textarea.form-control-lg {
   }
 }
 .form-range::-moz-range-thumb:active {
-  background-color: rgb(192.3, 202.5, 214.2);
+  background-color: rgb(193.5, 208.2, 218.1);
 }
 .form-range::-moz-range-track {
   width: 100%;
@@ -3036,36 +3036,36 @@ textarea.form-control-lg {
 
 .btn-primary {
   --mdb-btn-color: #fff;
-  --mdb-btn-bg: #2E5077;
-  --mdb-btn-border-color: #2E5077;
+  --mdb-btn-bg: #326384;
+  --mdb-btn-border-color: #326384;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: rgb(43.7, 76, 113.05);
-  --mdb-btn-hover-border-color: rgb(36.8, 64, 95.2);
-  --mdb-btn-focus-shadow-rgb: 77, 106, 139;
+  --mdb-btn-hover-bg: rgb(47.5, 94.05, 125.4);
+  --mdb-btn-hover-border-color: rgb(40, 79.2, 105.6);
+  --mdb-btn-focus-shadow-rgb: 81, 122, 150;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: rgb(41.4, 72, 107.1);
-  --mdb-btn-active-border-color: rgb(34.5, 60, 89.25);
+  --mdb-btn-active-bg: rgb(45, 89.1, 118.8);
+  --mdb-btn-active-border-color: rgb(37.5, 74.25, 99);
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
   --mdb-btn-disabled-color: #fff;
-  --mdb-btn-disabled-bg: #2E5077;
-  --mdb-btn-disabled-border-color: #2E5077;
+  --mdb-btn-disabled-bg: #326384;
+  --mdb-btn-disabled-border-color: #326384;
 }
 
 .btn-secondary {
   --mdb-btn-color: #fff;
-  --mdb-btn-bg: #FF9126;
-  --mdb-btn-border-color: #FF9126;
+  --mdb-btn-bg: #FA6B47;
+  --mdb-btn-border-color: #FA6B47;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: rgb(242.25, 137.75, 36.1);
-  --mdb-btn-hover-border-color: rgb(204, 116, 30.4);
-  --mdb-btn-focus-shadow-rgb: 255, 162, 71;
+  --mdb-btn-hover-bg: rgb(237.5, 101.65, 67.45);
+  --mdb-btn-hover-border-color: rgb(200, 85.6, 56.8);
+  --mdb-btn-focus-shadow-rgb: 251, 129, 99;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: rgb(229.5, 130.5, 34.2);
-  --mdb-btn-active-border-color: rgb(191.25, 108.75, 28.5);
+  --mdb-btn-active-bg: rgb(225, 96.3, 63.9);
+  --mdb-btn-active-border-color: rgb(187.5, 80.25, 53.25);
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
   --mdb-btn-disabled-color: #fff;
-  --mdb-btn-disabled-bg: #FF9126;
-  --mdb-btn-disabled-border-color: #FF9126;
+  --mdb-btn-disabled-bg: #FA6B47;
+  --mdb-btn-disabled-border-color: #FA6B47;
 }
 
 .btn-success {
@@ -3171,36 +3171,36 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  --mdb-btn-color: #2E5077;
-  --mdb-btn-border-color: #2E5077;
+  --mdb-btn-color: #326384;
+  --mdb-btn-border-color: #326384;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: #2E5077;
-  --mdb-btn-hover-border-color: #2E5077;
-  --mdb-btn-focus-shadow-rgb: 46, 80, 119;
+  --mdb-btn-hover-bg: #326384;
+  --mdb-btn-hover-border-color: #326384;
+  --mdb-btn-focus-shadow-rgb: 50, 99, 132;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: #2E5077;
-  --mdb-btn-active-border-color: #2E5077;
+  --mdb-btn-active-bg: #326384;
+  --mdb-btn-active-border-color: #326384;
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
-  --mdb-btn-disabled-color: #2E5077;
+  --mdb-btn-disabled-color: #326384;
   --mdb-btn-disabled-bg: transparent;
-  --mdb-btn-disabled-border-color: #2E5077;
+  --mdb-btn-disabled-border-color: #326384;
   --mdb-gradient: none;
 }
 
 .btn-outline-secondary {
-  --mdb-btn-color: #FF9126;
-  --mdb-btn-border-color: #FF9126;
+  --mdb-btn-color: #FA6B47;
+  --mdb-btn-border-color: #FA6B47;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: #FF9126;
-  --mdb-btn-hover-border-color: #FF9126;
-  --mdb-btn-focus-shadow-rgb: 255, 145, 38;
+  --mdb-btn-hover-bg: #FA6B47;
+  --mdb-btn-hover-border-color: #FA6B47;
+  --mdb-btn-focus-shadow-rgb: 250, 107, 71;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: #FF9126;
-  --mdb-btn-active-border-color: #FF9126;
+  --mdb-btn-active-bg: #FA6B47;
+  --mdb-btn-active-border-color: #FA6B47;
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
-  --mdb-btn-disabled-color: #FF9126;
+  --mdb-btn-disabled-color: #FA6B47;
   --mdb-btn-disabled-bg: transparent;
-  --mdb-btn-disabled-border-color: #FF9126;
+  --mdb-btn-disabled-border-color: #FA6B47;
   --mdb-gradient: none;
 }
 
@@ -3308,17 +3308,17 @@ textarea.form-control-lg {
 
 .btn-link {
   --mdb-btn-font-weight: 400;
-  --mdb-btn-color: #2E5077;
+  --mdb-btn-color: #326384;
   --mdb-btn-bg: transparent;
   --mdb-btn-border-color: transparent;
-  --mdb-btn-hover-color: rgb(43.7, 76, 113.05);
+  --mdb-btn-hover-color: rgb(47.5, 94.05, 125.4);
   --mdb-btn-hover-border-color: transparent;
-  --mdb-btn-active-color: rgb(43.7, 76, 113.05);
+  --mdb-btn-active-color: rgb(47.5, 94.05, 125.4);
   --mdb-btn-active-border-color: transparent;
   --mdb-btn-disabled-color: #9e9e9e;
   --mdb-btn-disabled-border-color: transparent;
   --mdb-btn-box-shadow: 0 0 0 #000;
-  --mdb-btn-focus-shadow-rgb: 77, 106, 139;
+  --mdb-btn-focus-shadow-rgb: 81, 122, 150;
   text-decoration: none;
 }
 .btn-link:hover, .btn-link:focus-visible {
@@ -3428,7 +3428,7 @@ textarea.form-control-lg {
   --mdb-dropdown-link-hover-color: var(--mdb-surface-color);
   --mdb-dropdown-link-hover-bg: var(--mdb-tertiary-bg);
   --mdb-dropdown-link-active-color: #fff;
-  --mdb-dropdown-link-active-bg: #2E5077;
+  --mdb-dropdown-link-active-bg: #326384;
   --mdb-dropdown-link-disabled-color: rgba(var(--mdb-surface-color-rgb), 0.5);
   --mdb-dropdown-item-padding-x: 1rem;
   --mdb-dropdown-item-padding-y: 0.5rem;
@@ -3694,7 +3694,7 @@ textarea.form-control-lg {
   --mdb-dropdown-divider-bg: var(--mdb-divider-color);
   --mdb-dropdown-link-hover-bg: rgba(255, 255, 255, 0.15);
   --mdb-dropdown-link-active-color: #fff;
-  --mdb-dropdown-link-active-bg: #2E5077;
+  --mdb-dropdown-link-active-bg: #326384;
   --mdb-dropdown-link-disabled-color: #9e9e9e;
   --mdb-dropdown-header-color: #9e9e9e;
 }
@@ -3840,7 +3840,7 @@ textarea.form-control-lg {
 }
 .nav-link:focus-visible {
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
 }
 .nav-link.disabled, .nav-link:disabled {
   color: var(--mdb-nav-link-disabled-color);
@@ -3853,9 +3853,9 @@ textarea.form-control-lg {
   --mdb-nav-tabs-border-color: var(--mdb-border-color);
   --mdb-nav-tabs-border-radius: var(--mdb-border-radius);
   --mdb-nav-tabs-link-hover-border-color: var(--mdb-secondary-bg) var(--mdb-secondary-bg) var(--mdb-border-color);
-  --mdb-nav-tabs-link-active-color: #2E5077;
+  --mdb-nav-tabs-link-active-color: #326384;
   --mdb-nav-tabs-link-active-bg: var(--mdb-body-bg);
-  --mdb-nav-tabs-link-active-border-color: #2E5077;
+  --mdb-nav-tabs-link-active-border-color: #326384;
   border-bottom: var(--mdb-nav-tabs-border-width) solid var(--mdb-nav-tabs-border-color);
 }
 .nav-tabs .nav-link {
@@ -4576,11 +4576,11 @@ textarea.form-control-lg {
   --mdb-accordion-btn-icon-width: 1.25rem;
   --mdb-accordion-btn-icon-transform: rotate(-180deg);
   --mdb-accordion-btn-icon-transition: transform 0.2s ease-in-out;
-  --mdb-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%232E5077' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+  --mdb-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23326384' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
   --mdb-accordion-btn-focus-box-shadow: inset 0 -1px 0 var(--mdb-border-color);
   --mdb-accordion-body-padding-x: 1.5rem;
   --mdb-accordion-body-padding-y: 1.15rem;
-  --mdb-accordion-active-color: #2E5077;
+  --mdb-accordion-active-color: #326384;
   --mdb-accordion-active-bg: var(--mdb-surface-bg);
 }
 
@@ -4695,7 +4695,7 @@ textarea.form-control-lg {
 
 [data-mdb-theme=dark] .accordion-button::after {
   --mdb-accordion-btn-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
-  --mdb-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%232E5077'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  --mdb-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23326384'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
 }
 
 .breadcrumb {
@@ -4744,10 +4744,10 @@ textarea.form-control-lg {
   --mdb-pagination-hover-border-color: var(--mdb-border-color);
   --mdb-pagination-focus-color: var(--mdb-link-hover-color);
   --mdb-pagination-focus-bg: var(--mdb-highlight-bg-color);
-  --mdb-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  --mdb-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
   --mdb-pagination-active-color: var(--mdb-primary-text-emphasis);
   --mdb-pagination-active-bg: var(--mdb-primary-bg-subtle);
-  --mdb-pagination-active-border-color: #2E5077;
+  --mdb-pagination-active-border-color: #326384;
   --mdb-pagination-disabled-color: rgba(var(--mdb-body-color-rgb), 0.55);
   --mdb-pagination-disabled-bg: transparent;
   --mdb-pagination-disabled-border-color: var(--mdb-border-color);
@@ -4958,7 +4958,7 @@ textarea.form-control-lg {
   --mdb-progress-border-radius: var(--mdb-border-radius);
   --mdb-progress-box-shadow: var(--mdb-box-shadow-inset);
   --mdb-progress-bar-color: #fff;
-  --mdb-progress-bar-bg: #2E5077;
+  --mdb-progress-bar-bg: #326384;
   --mdb-progress-bar-transition: width 0.6s ease;
   display: flex;
   height: var(--mdb-progress-height);
@@ -5024,8 +5024,8 @@ textarea.form-control-lg {
   --mdb-list-group-disabled-color: rgba(var(--mdb-body-color-rgb), 0.5);
   --mdb-list-group-disabled-bg: transparent;
   --mdb-list-group-active-color: #fff;
-  --mdb-list-group-active-bg: #2E5077;
-  --mdb-list-group-active-border-color: #2E5077;
+  --mdb-list-group-active-bg: #326384;
+  --mdb-list-group-active-border-color: #326384;
   display: flex;
   flex-direction: column;
   padding-left: 0;
@@ -5355,7 +5355,7 @@ textarea.form-control-lg {
   --mdb-btn-close-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e");
   --mdb-btn-close-opacity: 0.5;
   --mdb-btn-close-hover-opacity: 0.75;
-  --mdb-btn-close-focus-shadow: 0 0 0 0.25rem rgba(46, 80, 119, 0.25);
+  --mdb-btn-close-focus-shadow: 0 0 0 0.25rem rgba(50, 99, 132, 0.25);
   --mdb-btn-close-focus-opacity: 1;
   --mdb-btn-close-disabled-opacity: 0.25;
   --mdb-btn-close-white-filter: invert(1) grayscale(100%) brightness(200%);
@@ -6889,8 +6889,8 @@ textarea.form-control-lg {
   text-decoration-color: RGBA(var(--mdb-primary-rgb), var(--mdb-link-underline-opacity, 1)) !important;
 }
 .link-primary:hover, .link-primary:focus {
-  color: RGBA(44, 76, 113, var(--mdb-link-opacity, 1)) !important;
-  text-decoration-color: RGBA(44, 76, 113, var(--mdb-link-underline-opacity, 1)) !important;
+  color: RGBA(48, 94, 125, var(--mdb-link-opacity, 1)) !important;
+  text-decoration-color: RGBA(48, 94, 125, var(--mdb-link-underline-opacity, 1)) !important;
 }
 
 .link-secondary {
@@ -6898,8 +6898,8 @@ textarea.form-control-lg {
   text-decoration-color: RGBA(var(--mdb-secondary-rgb), var(--mdb-link-underline-opacity, 1)) !important;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: RGBA(242, 138, 36, var(--mdb-link-opacity, 1)) !important;
-  text-decoration-color: RGBA(242, 138, 36, var(--mdb-link-underline-opacity, 1)) !important;
+  color: RGBA(238, 102, 67, var(--mdb-link-opacity, 1)) !important;
+  text-decoration-color: RGBA(238, 102, 67, var(--mdb-link-underline-opacity, 1)) !important;
 }
 
 .link-success {
@@ -13153,7 +13153,7 @@ textarea.form-control-lg {
   --mdb-highlight-bg-color: #eeeeee;
   --mdb-scrollbar-rail-bg: #eeeeee;
   --mdb-scrollbar-thumb-bg: #9e9e9e;
-  --mdb-picker-header-bg: #2E5077;
+  --mdb-picker-header-bg: #326384;
   --mdb-timepicker-clock-face-bg: var(--mdb-secondary-bg);
   --mdb-sidenav-backdrop-opacity: 0.1;
   --mdb-input-focus-border-color: var(--mdb-primary);
@@ -13164,7 +13164,7 @@ textarea.form-control-lg {
   --mdb-box-shadow-color: #000;
   --mdb-box-shadow-color-rgb: 0, 0, 0;
   --mdb-stepper-mobile-bg: #fbfbfb;
-  --mdb-datepicker-cell-in-range-background-color: rgb(171.4, 185, 200.6);
+  --mdb-datepicker-cell-in-range-background-color: rgb(173, 192.6, 205.8);
 }
 
 [data-mdb-theme=dark] {
@@ -13304,12 +13304,12 @@ a {
 
 .bg-primary {
   --mdb--bg-opacity: 1;
-  background-color: rgba(46, 80, 119, var(--mdb--bg-opacity));
+  background-color: rgba(50, 99, 132, var(--mdb--bg-opacity));
 }
 
 .bg-secondary {
   --mdb--bg-opacity: 1;
-  background-color: rgba(255, 145, 38, var(--mdb--bg-opacity));
+  background-color: rgba(250, 107, 71, var(--mdb--bg-opacity));
 }
 
 .bg-success {
@@ -14216,8 +14216,8 @@ i.flag-zw:before, i.flag-zimbabwe:before {
 .form-control:focus {
   box-shadow: none;
   transition: all 0.1s linear;
-  border-color: #2E5077;
-  box-shadow: inset 0px 0px 0px 1px #2E5077;
+  border-color: #326384;
+  box-shadow: inset 0px 0px 0px 1px #326384;
 }
 .form-control.form-control-sm {
   font-size: 0.775rem;
@@ -14449,9 +14449,9 @@ i.flag-zw:before, i.flag-zimbabwe:before {
 }
 
 .form-select:focus {
-  border-color: #2E5077;
+  border-color: #326384;
   outline: 0;
-  box-shadow: inset 0px 0px 0px 1px #2E5077;
+  box-shadow: inset 0px 0px 0px 1px #326384;
 }
 
 .form-check {
@@ -14496,7 +14496,7 @@ i.flag-zw:before, i.flag-zimbabwe:before {
   transition: box-shadow 0.2s, transform 0.2s;
 }
 .form-check-input:checked {
-  border-color: #2E5077;
+  border-color: #326384;
 }
 .form-check-input:checked:before {
   opacity: 0.16;
@@ -14506,15 +14506,15 @@ i.flag-zw:before, i.flag-zimbabwe:before {
   position: absolute;
 }
 .form-check-input:checked:focus {
-  border-color: #2E5077;
+  border-color: #326384;
 }
 .form-check-input:checked:focus:before {
-  box-shadow: 0px 0px 0px 13px #2E5077;
+  box-shadow: 0px 0px 0px 13px #326384;
   transform: scale(1);
   transition: box-shadow 0.2s, transform 0.2s;
 }
 .form-check-input:indeterminate:focus:before {
-  box-shadow: 0px 0px 0px 13px #2E5077;
+  box-shadow: 0px 0px 0px 13px #326384;
 }
 .form-check-input[type=checkbox] {
   border-radius: 0.25rem;
@@ -14533,7 +14533,7 @@ i.flag-zw:before, i.flag-zimbabwe:before {
 }
 .form-check-input[type=checkbox]:checked {
   background-image: none;
-  background-color: #2E5077;
+  background-color: #326384;
 }
 .form-check-input[type=checkbox]:checked:after {
   display: block;
@@ -14550,10 +14550,10 @@ i.flag-zw:before, i.flag-zimbabwe:before {
   background-color: transparent;
 }
 .form-check-input[type=checkbox]:checked:focus {
-  background-color: #2E5077;
+  background-color: #326384;
 }
 .form-check-input[type=checkbox]:indeterminate {
-  border-color: #2E5077;
+  border-color: #326384;
 }
 .form-check-input[type=radio] {
   border-radius: 50%;
@@ -14584,8 +14584,8 @@ i.flag-zw:before, i.flag-zimbabwe:before {
   border-radius: 50%;
   width: 0.625rem;
   height: 0.625rem;
-  border-color: #2E5077;
-  background-color: #2E5077;
+  border-color: #326384;
+  background-color: #326384;
   transition: border-color;
   transform: translate(-50%, -50%);
   position: absolute;
@@ -14647,7 +14647,7 @@ i.flag-zw:before, i.flag-zimbabwe:before {
 }
 .form-switch .form-check-input:checked:focus:before {
   margin-left: 1.0625rem;
-  box-shadow: 3px -1px 0px 13px #2E5077;
+  box-shadow: 3px -1px 0px 13px #326384;
   transform: scale(1);
   transition: box-shadow 0.2s, transform 0.2s;
 }
@@ -14662,7 +14662,7 @@ i.flag-zw:before, i.flag-zimbabwe:before {
   border-radius: 50%;
   width: 1.25rem;
   height: 1.25rem;
-  background-color: #2E5077;
+  background-color: #326384;
   margin-top: -3px;
   margin-left: 1.0625rem;
   box-shadow: 0 3px 1px -2px rgba(var(--mdb-box-shadow-color-rgb), 0.2), 0 2px 2px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.14), 0 1px 5px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.12);
@@ -14698,9 +14698,9 @@ i.flag-zw:before, i.flag-zimbabwe:before {
 }
 .input-group > .form-control:focus {
   transition: all 0.2s linear;
-  border-color: #2E5077;
+  border-color: #326384;
   outline: 0;
-  box-shadow: inset 0 0 0 1px #2E5077;
+  box-shadow: inset 0 0 0 1px #326384;
 }
 
 .input-group-text {
@@ -15192,13 +15192,13 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .table-primary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(213.2, 220, 227.8);
-  --mdb-table-border-color: rgb(170.56, 176, 182.24);
-  --mdb-table-striped-bg: rgb(202.54, 209, 216.41);
+  --mdb-table-bg: rgb(214, 223.8, 230.4);
+  --mdb-table-border-color: rgb(171.2, 179.04, 184.32);
+  --mdb-table-striped-bg: rgb(203.3, 212.61, 218.88);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(191.88, 198, 205.02);
+  --mdb-table-active-bg: rgb(192.6, 201.42, 207.36);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(197.21, 203.5, 210.715);
+  --mdb-table-hover-bg: rgb(197.95, 207.015, 213.12);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -15206,13 +15206,13 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .table-secondary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(255, 233, 211.6);
-  --mdb-table-border-color: rgb(204, 186.4, 169.28);
-  --mdb-table-striped-bg: rgb(242.25, 221.35, 201.02);
+  --mdb-table-bg: rgb(254, 225.4, 218.2);
+  --mdb-table-border-color: rgb(203.2, 180.32, 174.56);
+  --mdb-table-striped-bg: rgb(241.3, 214.13, 207.29);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(229.5, 209.7, 190.44);
+  --mdb-table-active-bg: rgb(228.6, 202.86, 196.38);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(235.875, 215.525, 195.73);
+  --mdb-table-hover-bg: rgb(234.95, 208.495, 201.835);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -15414,16 +15414,16 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 }
 
 .btn-primary {
-  --mdb-btn-bg: #2E5077;
+  --mdb-btn-bg: #326384;
   --mdb-btn-color: #fff;
-  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(43.7, 76, 113.05);
-  --mdb-btn-hover-bg: rgb(43.7, 76, 113.05);
+  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(47.5, 94.05, 125.4);
+  --mdb-btn-hover-bg: rgb(47.5, 94.05, 125.4);
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-focus-bg: rgb(43.7, 76, 113.05);
+  --mdb-btn-focus-bg: rgb(47.5, 94.05, 125.4);
   --mdb-btn-focus-color: #fff;
-  --mdb-btn-active-bg: rgb(41.4, 72, 107.1);
+  --mdb-btn-active-bg: rgb(45, 89.1, 118.8);
   --mdb-btn-active-color: #fff;
-  --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(43.7, 76, 113.05, 0.3), 0 4px 18px 0 rgba(43.7, 76, 113.05, 0.2);
+  --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(47.5, 94.05, 125.4, 0.3), 0 4px 18px 0 rgba(47.5, 94.05, 125.4, 0.2);
 }
 :not(.btn-check) + .btn-primary:hover, .btn-primary:first-child:hover, .btn-primary:focus-visible, .btn-primary:hover {
   box-shadow: var(--mdb-btn-box-shadow-state);
@@ -15453,15 +15453,15 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 }
 
 .btn-secondary {
-  --mdb-btn-bg: rgb(223.65, 228.75, 234.6);
-  --mdb-btn-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(225.2175, 230.0625, 235.62);
-  --mdb-btn-hover-bg: rgb(212.4675, 217.3125, 222.87);
-  --mdb-btn-hover-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-focus-bg: rgb(212.4675, 217.3125, 222.87);
-  --mdb-btn-focus-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-active-bg: rgb(212.4675, 217.3125, 222.87);
-  --mdb-btn-active-color: rgb(32.2, 56, 83.3);
+  --mdb-btn-bg: rgb(224.25, 231.6, 236.55);
+  --mdb-btn-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(225.7875, 232.77, 237.4725);
+  --mdb-btn-hover-bg: rgb(213.0375, 220.02, 224.7225);
+  --mdb-btn-hover-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-focus-bg: rgb(213.0375, 220.02, 224.7225);
+  --mdb-btn-focus-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-active-bg: rgb(213.0375, 220.02, 224.7225);
+  --mdb-btn-active-color: rgb(35, 69.3, 92.4);
   --mdb-btn-box-shadow-state: transparent;
 }
 :not(.btn-check) + .btn-secondary:hover, .btn-secondary:first-child:hover, .btn-secondary:focus-visible, .btn-secondary:hover {
@@ -15720,16 +15720,16 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .btn-outline-primary {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: #2E5077;
-  --mdb-btn-hover-bg: rgb(244.55, 246.25, 248.2);
-  --mdb-btn-hover-color: rgb(43.7, 76, 113.05);
-  --mdb-btn-focus-bg: rgb(244.55, 246.25, 248.2);
-  --mdb-btn-focus-color: rgb(43.7, 76, 113.05);
-  --mdb-btn-active-bg: rgb(244.55, 246.25, 248.2);
-  --mdb-btn-active-color: rgb(41.4, 72, 107.1);
-  --mdb-btn-outline-border-color: #2E5077;
-  --mdb-btn-outline-focus-border-color: rgb(36.8, 64, 95.2);
-  --mdb-btn-outline-hover-border-color: rgb(36.8, 64, 95.2);
+  --mdb-btn-color: #326384;
+  --mdb-btn-hover-bg: rgb(244.75, 247.2, 248.85);
+  --mdb-btn-hover-color: rgb(47.5, 94.05, 125.4);
+  --mdb-btn-focus-bg: rgb(244.75, 247.2, 248.85);
+  --mdb-btn-focus-color: rgb(47.5, 94.05, 125.4);
+  --mdb-btn-active-bg: rgb(244.75, 247.2, 248.85);
+  --mdb-btn-active-color: rgb(45, 89.1, 118.8);
+  --mdb-btn-outline-border-color: #326384;
+  --mdb-btn-outline-focus-border-color: rgb(40, 79.2, 105.6);
+  --mdb-btn-outline-hover-border-color: rgb(40, 79.2, 105.6);
   border-color: var(--mdb-btn-outline-border-color);
 }
 :not(.btn-check) + .btn-outline-primary:hover, .btn-outline-primary:first-child:hover, .btn-outline-primary:focus-visible, .btn-outline-primary:hover {
@@ -15750,27 +15750,27 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 [data-mdb-theme=dark] .btn-outline-primary {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: rgb(87.8, 115, 146.2);
-  --mdb-btn-hover-bg: rgb(13.8, 24, 35.7);
-  --mdb-btn-hover-color: rgb(43.7, 76, 113.05);
-  --mdb-btn-focus-bg: rgb(13.8, 24, 35.7);
-  --mdb-btn-focus-color: rgb(43.7, 76, 113.05);
-  --mdb-btn-active-bg: rgb(13.8, 24, 35.7);
-  --mdb-btn-active-color: rgb(41.4, 72, 107.1);
+  --mdb-btn-color: rgb(91, 130.2, 156.6);
+  --mdb-btn-hover-bg: rgb(15, 29.7, 39.6);
+  --mdb-btn-hover-color: rgb(47.5, 94.05, 125.4);
+  --mdb-btn-focus-bg: rgb(15, 29.7, 39.6);
+  --mdb-btn-focus-color: rgb(47.5, 94.05, 125.4);
+  --mdb-btn-active-bg: rgb(15, 29.7, 39.6);
+  --mdb-btn-active-color: rgb(45, 89.1, 118.8);
 }
 
 .btn-outline-secondary {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-hover-bg: rgb(243.86, 245.05, 246.415);
-  --mdb-btn-hover-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-focus-bg: rgb(243.86, 245.05, 246.415);
-  --mdb-btn-focus-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-active-bg: rgb(243.86, 245.05, 246.415);
-  --mdb-btn-active-color: rgb(32.2, 56, 83.3);
-  --mdb-btn-outline-border-color: rgb(223.65, 228.75, 234.6);
-  --mdb-btn-outline-focus-border-color: rgb(212.4675, 217.3125, 222.87);
-  --mdb-btn-outline-hover-border-color: rgb(212.4675, 217.3125, 222.87);
+  --mdb-btn-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-hover-bg: rgb(244, 245.715, 246.87);
+  --mdb-btn-hover-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-focus-bg: rgb(244, 245.715, 246.87);
+  --mdb-btn-focus-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-active-bg: rgb(244, 245.715, 246.87);
+  --mdb-btn-active-color: rgb(35, 69.3, 92.4);
+  --mdb-btn-outline-border-color: rgb(224.25, 231.6, 236.55);
+  --mdb-btn-outline-focus-border-color: rgb(213.0375, 220.02, 224.7225);
+  --mdb-btn-outline-hover-border-color: rgb(213.0375, 220.02, 224.7225);
   border-color: var(--mdb-btn-outline-border-color);
 }
 :not(.btn-check) + .btn-outline-secondary:hover, .btn-outline-secondary:first-child:hover, .btn-outline-secondary:focus-visible, .btn-outline-secondary:hover {
@@ -15791,16 +15791,16 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 [data-mdb-theme=dark] .btn-outline-secondary {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: rgb(192.3, 202.5, 214.2);
-  --mdb-btn-hover-bg: rgb(18.4, 32, 47.6);
-  --mdb-btn-hover-color: rgb(171.4, 185, 200.6);
-  --mdb-btn-focus-bg: rgb(18.4, 32, 47.6);
-  --mdb-btn-focus-color: rgb(171.4, 185, 200.6);
-  --mdb-btn-active-bg: rgb(18.4, 32, 47.6);
-  --mdb-btn-active-color: rgb(171.4, 185, 200.6);
-  --mdb-btn-outline-border-color: rgb(150.5, 167.5, 187);
-  --mdb-btn-outline-focus-border-color: rgb(142.975, 159.125, 177.65);
-  --mdb-btn-outline-hover-border-color: rgb(142.975, 159.125, 177.65);
+  --mdb-btn-color: rgb(193.5, 208.2, 218.1);
+  --mdb-btn-hover-bg: rgb(20, 39.6, 52.8);
+  --mdb-btn-hover-color: rgb(173, 192.6, 205.8);
+  --mdb-btn-focus-bg: rgb(20, 39.6, 52.8);
+  --mdb-btn-focus-color: rgb(173, 192.6, 205.8);
+  --mdb-btn-active-bg: rgb(20, 39.6, 52.8);
+  --mdb-btn-active-color: rgb(173, 192.6, 205.8);
+  --mdb-btn-outline-border-color: rgb(152.5, 177, 193.5);
+  --mdb-btn-outline-focus-border-color: rgb(144.875, 168.15, 183.825);
+  --mdb-btn-outline-hover-border-color: rgb(144.875, 168.15, 183.825);
   border-color: var(--mdb-btn-outline-border-color);
 }
 
@@ -16052,11 +16052,11 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .btn-link {
   --mdb-btn-font-weight: 500;
-  --mdb-btn-color: #2E5077;
-  --mdb-btn-hover-color: rgb(43.7, 76, 113.05);
+  --mdb-btn-color: #326384;
+  --mdb-btn-hover-color: rgb(47.5, 94.05, 125.4);
   --mdb-btn-hover-bg: hsl(0, 0%, 96%);
-  --mdb-btn-focus-color: rgb(41.4, 72, 107.1);
-  --mdb-btn-active-color: rgb(39.1, 68, 101.15);
+  --mdb-btn-focus-color: rgb(45, 89.1, 118.8);
+  --mdb-btn-active-color: rgb(42.5, 84.15, 112.2);
   --mdb-btn-disabled-color: #9e9e9e;
   --mdb-btn-box-shadow: none;
   text-decoration: none;
@@ -16084,11 +16084,11 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .btn-tertiary {
   --mdb-btn-font-weight: 500;
-  --mdb-btn-color: #2E5077;
-  --mdb-btn-hover-color: rgb(43.7, 76, 113.05);
+  --mdb-btn-color: #326384;
+  --mdb-btn-hover-color: rgb(47.5, 94.05, 125.4);
   --mdb-btn-hover-bg: transparent;
-  --mdb-btn-focus-color: rgb(41.4, 72, 107.1);
-  --mdb-btn-active-color: rgb(39.1, 68, 101.15);
+  --mdb-btn-focus-color: rgb(45, 89.1, 118.8);
+  --mdb-btn-active-color: rgb(42.5, 84.15, 112.2);
   --mdb-btn-disabled-color: #9e9e9e;
   --mdb-btn-box-shadow: none;
   padding-left: 0px;
@@ -16117,25 +16117,25 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 }
 
 [data-mdb-theme=dark] .btn-secondary {
-  --mdb-btn-bg: rgb(171.4, 185, 200.6);
-  --mdb-btn-hover-bg: rgb(150.5, 167.5, 187);
-  --mdb-btn-focus-bg: rgb(150.5, 167.5, 187);
-  --mdb-btn-active-bg: rgb(150.5, 167.5, 187);
+  --mdb-btn-bg: rgb(173, 192.6, 205.8);
+  --mdb-btn-hover-bg: rgb(152.5, 177, 193.5);
+  --mdb-btn-focus-bg: rgb(152.5, 177, 193.5);
+  --mdb-btn-active-bg: rgb(152.5, 177, 193.5);
 }
 
 [data-mdb-theme=dark] .btn-link {
-  --mdb-btn-color: #FF9126;
-  --mdb-btn-hover-color: rgb(255, 178, 103.1);
-  --mdb-btn-hover-bg: rgb(102, 58, 15.2);
-  --mdb-btn-focus-color: rgb(255, 178, 103.1);
-  --mdb-btn-active-color: rgb(255, 178, 103.1);
+  --mdb-btn-color: #FA6B47;
+  --mdb-btn-hover-color: rgb(251.5, 151.4, 126.2);
+  --mdb-btn-hover-bg: rgb(100, 42.8, 28.4);
+  --mdb-btn-focus-color: rgb(251.5, 151.4, 126.2);
+  --mdb-btn-active-color: rgb(251.5, 151.4, 126.2);
 }
 
 [data-mdb-theme=dark] .btn-tertiary {
-  --mdb-btn-color: #FF9126;
-  --mdb-btn-hover-color: rgb(255, 178, 103.1);
-  --mdb-btn-focus-color: rgb(255, 178, 103.1);
-  --mdb-btn-active-color: rgb(255, 178, 103.1);
+  --mdb-btn-color: #FA6B47;
+  --mdb-btn-hover-color: rgb(251.5, 151.4, 126.2);
+  --mdb-btn-focus-color: rgb(251.5, 151.4, 126.2);
+  --mdb-btn-active-color: rgb(251.5, 151.4, 126.2);
 }
 
 .btn-lg, .btn-group-lg > .btn {
@@ -16586,8 +16586,8 @@ fieldset:disabled .btn-group-vertical > .btn {
   --mdb-nav-tabs-link-padding-x: 29px;
   --mdb-nav-tabs-link-hover-bgc: var(--mdb-highlight-bg-color);
   --mdb-nav-tabs-link-border-bottom-width: 2px;
-  --mdb-nav-tabs-link-active-color: #2E5077;
-  --mdb-nav-tabs-link-active-border-color: #2E5077;
+  --mdb-nav-tabs-link-active-color: #326384;
+  --mdb-nav-tabs-link-active-border-color: #326384;
   border-width: 0;
   border-bottom: var(--mdb-nav-tabs-link-border-bottom-width) solid transparent;
   border-radius: 0;
@@ -17363,10 +17363,10 @@ fieldset:disabled .btn-group-vertical > .btn {
 }
 .nav-pills.menu-sidebar .nav-link.active,
 .nav-pills.menu-sidebar .show > .nav-link {
-  --mdb-scrollspy-menu-sidebar-active-color: #2E5077;
+  --mdb-scrollspy-menu-sidebar-active-color: #326384;
   --mdb-scrollspy-menu-sidebar-active-font-weight: 600;
   --mdb-scrollspy-menu-sidebar-active-border-width: 0.125rem;
-  --mdb-scrollspy-menu-sidebar-active-border-color: #2E5077;
+  --mdb-scrollspy-menu-sidebar-active-border-color: #326384;
   background-color: transparent;
   box-shadow: none;
   color: var(--mdb-scrollspy-menu-sidebar-active-color);
@@ -17423,7 +17423,7 @@ fieldset:disabled .btn-group-vertical > .btn {
 }
 
 .ripple-surface-primary .ripple-wave {
-  background-image: radial-gradient(circle, rgba(46, 80, 119, 0.2) 0, rgba(46, 80, 119, 0.3) 40%, rgba(46, 80, 119, 0.4) 50%, rgba(46, 80, 119, 0.5) 60%, rgba(46, 80, 119, 0) 70%);
+  background-image: radial-gradient(circle, rgba(50, 99, 132, 0.2) 0, rgba(50, 99, 132, 0.3) 40%, rgba(50, 99, 132, 0.4) 50%, rgba(50, 99, 132, 0.5) 60%, rgba(50, 99, 132, 0) 70%);
 }
 
 .ripple-surface-secondary .ripple-wave {
@@ -17466,7 +17466,7 @@ fieldset:disabled .btn-group-vertical > .btn {
   --mdb-range-thumb-value-line-height: 30px;
   --mdb-range-thumb-value-color: #fff;
   --mdb-range-thumb-value-font-weight: 500;
-  --mdb-range-thumb-background: #2E5077;
+  --mdb-range-thumb-background: #326384;
   position: relative;
 }
 .range .thumb {
